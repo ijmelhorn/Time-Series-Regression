@@ -3,7 +3,7 @@ Time-Series and Linear Regression Forecasting
 
 ## Time-Series Forecasting
 
-Decomposition using a Hodrick-Prescott Filter
+Decomposition using a Hodrick-Prescott Filter.
 
 Forecasted returns using an ARMA Model.
 
